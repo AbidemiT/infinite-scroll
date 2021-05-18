@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "dotenv": "^9.0.2",
+    "rollup": "^2.48.0"
+  }
+}
